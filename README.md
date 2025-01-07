@@ -50,15 +50,6 @@ Ensure you have Python 3.8 or higher installed. Install the required libraries u
 - Random Forest Classifier
 - Gradient Boosting Classifier
 
-## File Structure
-
-```
-.
-├── app.py                 # Main Streamlit application
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── data/                  # Sample datasets (optional)
-```
 
 ## Dependencies
 
