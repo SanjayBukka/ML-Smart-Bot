@@ -1,0 +1,13 @@
+File Upload: Allows users to upload CSV or TXT files and displays the dataset's preview and basic information.
+Feature Selection: Automatically identifies numeric and categorical features and allows users to select them for model training.
+Model Configuration:
+Supports both regression and classification tasks.
+Includes popular algorithms: Random Forest, Logistic/Linear Regression, SVM, Decision Tree, and KNN.
+Adjustable test set size.
+Results Analysis:
+Regression metrics: R² score, RMSE, MSE, and scatter plot of actual vs. predicted values.
+Classification metrics: Confusion matrix and classification report.
+Feature importance visualization (for models that support it).
+Correlation matrix of features with the target variable.
+Automated Insights: Displays key performance metrics and summary for both regression and classification tasks.
+
